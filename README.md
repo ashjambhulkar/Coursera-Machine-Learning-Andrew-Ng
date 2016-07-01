@@ -1,7 +1,7 @@
 # Coursera-Machine-Learning-Andrew-Ng
 
 This are My solutions to Programming exercises from Machine Learning - Stanford University by Andrew Ng. If you are taking the class please use your own logic
-, DO NOT refer any code before solving or submittin any programming exercise from this repo.
+, DO NOT refer any code before solving or submitting any programming exercise from this repo.
 
 Please DO NOT post any code in my exercises and violate the Stanford Honor Code.
 
@@ -15,4 +15,4 @@ All Solutions licensed under MIT License. See LICENSE.txt for further details.
 
 #Copyright
 
-Copyright (c) 2011 everpeace.
+Copyright (c) 2016 ashjambhulkar.
